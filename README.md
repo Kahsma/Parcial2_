@@ -1,4 +1,4 @@
-###*Pontificia Universidad Javeriana*
+### *Pontificia Universidad Javeriana*
 
 **Fecha**: 2 de octubre 2024
 
@@ -8,6 +8,6 @@
 
 **Objetivo**: Segundo Parcial **Modelo A**
 
-###**Nombre Estudiante**: Martinez Patiño, Camilo
+### **Nombre Estudiante**: Martinez Patiño, Camilo
 
-###**ID Estudiante**: 20439630
+### **ID Estudiante**: 20439630
